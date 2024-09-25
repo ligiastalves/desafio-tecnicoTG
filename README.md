@@ -1,7 +1,4 @@
-# desafio-tecnicoTG
 Este repositório contém soluções para uma série de desafios de programação em Java para uma vaga de estágio. Cada desafio aborda conceitos básicos de lógica de programação e manipulação de strings e arrays.
-
-## Desafios
 
 ### Desafio 1: Soma de Números
 Um programa que calcula a soma de números de 1 até um valor informado, utilizando um loop.
@@ -18,11 +15,11 @@ Um programa que calcula o percentual de faturamento por estado a partir de um va
 ### Desafio 5: Inversão de String
 Um programa que inverte os caracteres de uma string informada pelo usuário, sem usar funções prontas de reversão.
 
-#Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Java
 
-#Contribuições
+## Contribuições
 Sinta-se à vontade para contribuir com melhorias ou novos desafios. Basta fazer um fork do repositório e enviar um pull request.
 
-#Licença
-Este projeto é de uso livre. Consulte a licença para mais detalhes.
+## Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
